@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/bin/Debug/net6.0/MediaPonderada
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/bin/Debug/net6.0/MediaPonderada.deps.json
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/bin/Debug/net6.0/MediaPonderada.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/bin/Debug/net6.0/MediaPonderada.dll
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/bin/Debug/net6.0/MediaPonderada.pdb
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.dll
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/refint/MediaPonderada.dll
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.pdb
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/MediaPonderada.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/Debug/net6.0/ref/MediaPonderada.dll

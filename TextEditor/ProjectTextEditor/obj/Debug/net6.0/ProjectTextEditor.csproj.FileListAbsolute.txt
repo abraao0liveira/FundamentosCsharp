@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/bin/Debug/net6.0/ProjectTextEditor
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/bin/Debug/net6.0/ProjectTextEditor.deps.json
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/bin/Debug/net6.0/ProjectTextEditor.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/bin/Debug/net6.0/ProjectTextEditor.dll
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/bin/Debug/net6.0/ProjectTextEditor.pdb
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.dll
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/refint/ProjectTextEditor.dll
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.pdb
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ProjectTextEditor.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/Debug/net6.0/ref/ProjectTextEditor.dll

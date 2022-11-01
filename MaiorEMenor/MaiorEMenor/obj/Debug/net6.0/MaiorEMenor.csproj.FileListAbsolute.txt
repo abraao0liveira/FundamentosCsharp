@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.deps.json
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.dll
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/bin/Debug/net6.0/MaiorEMenor.pdb
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.dll
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/refint/MaiorEMenor.dll
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.pdb
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/MaiorEMenor.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/Debug/net6.0/ref/MaiorEMenor.dll

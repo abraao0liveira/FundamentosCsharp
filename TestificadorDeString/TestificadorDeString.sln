@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5704BBB9-AD4D-439B-8A77-B22A9F894DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestificadorDeString", "TestificadorDeString\TestificadorDeString.csproj", "{DA181C80-82C2-402A-8382-D4959EA4D05F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DA181C80-82C2-402A-8382-D4959EA4D05F} = {5704BBB9-AD4D-439B-8A77-B22A9F894DF7}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA181C80-82C2-402A-8382-D4959EA4D05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA181C80-82C2-402A-8382-D4959EA4D05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA181C80-82C2-402A-8382-D4959EA4D05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA181C80-82C2-402A-8382-D4959EA4D05F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

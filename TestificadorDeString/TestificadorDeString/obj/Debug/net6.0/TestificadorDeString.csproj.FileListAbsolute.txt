@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/bin/Debug/net6.0/TestificadorDeString
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/bin/Debug/net6.0/TestificadorDeString.deps.json
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/bin/Debug/net6.0/TestificadorDeString.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/bin/Debug/net6.0/TestificadorDeString.dll
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/bin/Debug/net6.0/TestificadorDeString.pdb
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.dll
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/refint/TestificadorDeString.dll
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.pdb
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/TestificadorDeString.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/Debug/net6.0/ref/TestificadorDeString.dll

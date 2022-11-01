@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/bin/Debug/net6.0/ProjectStopWatch
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/bin/Debug/net6.0/ProjectStopWatch.deps.json
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/bin/Debug/net6.0/ProjectStopWatch.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/bin/Debug/net6.0/ProjectStopWatch.dll
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/bin/Debug/net6.0/ProjectStopWatch.pdb
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.dll
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/refint/ProjectStopWatch.dll
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.pdb
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ProjectStopWatch.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/Debug/net6.0/ref/ProjectStopWatch.dll

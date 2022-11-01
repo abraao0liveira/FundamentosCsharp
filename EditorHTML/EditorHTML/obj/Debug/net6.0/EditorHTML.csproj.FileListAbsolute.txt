@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/bin/Debug/net6.0/EditorHTML
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/bin/Debug/net6.0/EditorHTML.deps.json
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/bin/Debug/net6.0/EditorHTML.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/bin/Debug/net6.0/EditorHTML.dll
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/bin/Debug/net6.0/EditorHTML.pdb
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.dll
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/refint/EditorHTML.dll
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.pdb
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/EditorHTML.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/Debug/net6.0/ref/EditorHTML.dll

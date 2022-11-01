@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/bin/Debug/net6.0/Tabuleiro
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/bin/Debug/net6.0/Tabuleiro.deps.json
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/bin/Debug/net6.0/Tabuleiro.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/bin/Debug/net6.0/Tabuleiro.dll
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/bin/Debug/net6.0/Tabuleiro.pdb
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.dll
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/refint/Tabuleiro.dll
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.pdb
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/Tabuleiro.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/Debug/net6.0/ref/Tabuleiro.dll

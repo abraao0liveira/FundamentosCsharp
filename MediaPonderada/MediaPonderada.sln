@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5426232C-9DDB-4C3D-9153-65DACAC84A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPonderada", "MediaPonderada\MediaPonderada.csproj", "{522AFFF5-A99F-4D88-B290-A55E49EE8E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{522AFFF5-A99F-4D88-B290-A55E49EE8E5A} = {5426232C-9DDB-4C3D-9153-65DACAC84A93}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{522AFFF5-A99F-4D88-B290-A55E49EE8E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522AFFF5-A99F-4D88-B290-A55E49EE8E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522AFFF5-A99F-4D88-B290-A55E49EE8E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522AFFF5-A99F-4D88-B290-A55E49EE8E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

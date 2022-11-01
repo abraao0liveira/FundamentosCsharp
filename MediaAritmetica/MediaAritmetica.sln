@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6C8D1E0D-CE6B-4BC0-90A0-31413004D733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAritmetica", "MediaAritmetica\MediaAritmetica.csproj", "{1B1531CD-31B7-418B-8EA9-25783230DC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B1531CD-31B7-418B-8EA9-25783230DC66} = {6C8D1E0D-CE6B-4BC0-90A0-31413004D733}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B1531CD-31B7-418B-8EA9-25783230DC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1531CD-31B7-418B-8EA9-25783230DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1531CD-31B7-418B-8EA9-25783230DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1531CD-31B7-418B-8EA9-25783230DC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

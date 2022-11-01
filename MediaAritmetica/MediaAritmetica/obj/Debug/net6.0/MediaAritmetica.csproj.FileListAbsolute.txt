@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/bin/Debug/net6.0/MediaAritmetica
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/bin/Debug/net6.0/MediaAritmetica.deps.json
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/bin/Debug/net6.0/MediaAritmetica.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/bin/Debug/net6.0/MediaAritmetica.dll
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/bin/Debug/net6.0/MediaAritmetica.pdb
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.dll
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/refint/MediaAritmetica.dll
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.pdb
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/MediaAritmetica.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/Debug/net6.0/ref/MediaAritmetica.dll

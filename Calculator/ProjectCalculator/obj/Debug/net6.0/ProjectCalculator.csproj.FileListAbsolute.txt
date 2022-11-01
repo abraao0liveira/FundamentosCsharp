@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/bin/Debug/net6.0/ProjectCalculator
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/bin/Debug/net6.0/ProjectCalculator.deps.json
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/bin/Debug/net6.0/ProjectCalculator.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/bin/Debug/net6.0/ProjectCalculator.dll
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/bin/Debug/net6.0/ProjectCalculator.pdb
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.dll
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/refint/ProjectCalculator.dll
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.pdb
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ProjectCalculator.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/Debug/net6.0/ref/ProjectCalculator.dll
