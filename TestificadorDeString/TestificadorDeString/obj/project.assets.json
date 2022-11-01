@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
       "projectName": "TestificadorDeString",
-      "projectPath": "/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TestificadorDeString/TestificadorDeString/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

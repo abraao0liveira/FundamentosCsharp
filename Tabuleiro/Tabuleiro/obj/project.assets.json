@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/Tabuleiro.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Tabuleiro/Tabuleiro/Tabuleiro.csproj",
       "projectName": "Tabuleiro",
-      "projectPath": "/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/Tabuleiro.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Tabuleiro/Tabuleiro/Tabuleiro.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/Tabuleiro/Tabuleiro/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Tabuleiro/Tabuleiro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

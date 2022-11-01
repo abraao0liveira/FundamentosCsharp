@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/EditorHTML.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/EditorHTML/EditorHTML/EditorHTML.csproj",
       "projectName": "EditorHTML",
-      "projectPath": "/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/EditorHTML.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/EditorHTML/EditorHTML/EditorHTML.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/EditorHTML/EditorHTML/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/EditorHTML/EditorHTML/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

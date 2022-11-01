@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj": {}
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj": {}
   },
   "projects": {
-    "/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj": {
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj",
+        "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj",
         "projectName": "ProjectStopWatch",
-        "projectPath": "/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj",
+        "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/StopWatch/ProjectStopWatch/ProjectStopWatch.csproj",
         "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-        "outputPath": "/home/abraao0liveira/RiderProjects/StopWatch/ProjectStopWatch/obj/",
+        "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/StopWatch/ProjectStopWatch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

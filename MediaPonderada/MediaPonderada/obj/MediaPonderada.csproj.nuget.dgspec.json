@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/MediaPonderada.csproj": {}
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaPonderada/MediaPonderada/MediaPonderada.csproj": {}
   },
   "projects": {
-    "/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/MediaPonderada.csproj": {
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaPonderada/MediaPonderada/MediaPonderada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/MediaPonderada.csproj",
+        "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaPonderada/MediaPonderada/MediaPonderada.csproj",
         "projectName": "MediaPonderada",
-        "projectPath": "/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/MediaPonderada.csproj",
+        "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaPonderada/MediaPonderada/MediaPonderada.csproj",
         "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-        "outputPath": "/home/abraao0liveira/RiderProjects/MediaPonderada/MediaPonderada/obj/",
+        "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaPonderada/MediaPonderada/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

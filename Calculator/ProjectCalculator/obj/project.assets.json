@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/ProjectCalculator.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Calculator/ProjectCalculator/ProjectCalculator.csproj",
       "projectName": "ProjectCalculator",
-      "projectPath": "/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/ProjectCalculator.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Calculator/ProjectCalculator/ProjectCalculator.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Calculator/ProjectCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

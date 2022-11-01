@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/MaiorEMenor.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MaiorEMenor/MaiorEMenor/MaiorEMenor.csproj",
       "projectName": "MaiorEMenor",
-      "projectPath": "/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/MaiorEMenor.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MaiorEMenor/MaiorEMenor/MaiorEMenor.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/MaiorEMenor/MaiorEMenor/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MaiorEMenor/MaiorEMenor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

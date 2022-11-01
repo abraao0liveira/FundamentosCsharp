@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/MediaAritmetica.csproj",
+      "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaAritmetica/MediaAritmetica/MediaAritmetica.csproj",
       "projectName": "MediaAritmetica",
-      "projectPath": "/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/MediaAritmetica.csproj",
+      "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaAritmetica/MediaAritmetica/MediaAritmetica.csproj",
       "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-      "outputPath": "/home/abraao0liveira/RiderProjects/MediaAritmetica/MediaAritmetica/obj/",
+      "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/MediaAritmetica/MediaAritmetica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

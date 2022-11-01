@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj": {}
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj": {}
   },
   "projects": {
-    "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj": {
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
+        "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
         "projectName": "ProjectTextEditor",
-        "projectPath": "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
+        "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
         "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-        "outputPath": "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/obj/",
+        "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rCbmKQ8FL0SRe8MK8XaSk0rmTQNsQ8s9OeAY7z7TEqzCkUG+ulb2Gja15fp5IgzmT+xYnVIwP+IqBwWPIS99ZA==",
+  "dgSpecHash": "oxkOwcGzd8k5DWLaYX2vDUT7YRboYDZiOjW2CSLP/TZJwPuCQAm3vBtnDfOB0UFCxteHOKNhgDAC060jO/3lHw==",
   "success": true,
-  "projectFilePath": "/home/abraao0liveira/RiderProjects/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
+  "projectFilePath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TextEditor/ProjectTextEditor/ProjectTextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

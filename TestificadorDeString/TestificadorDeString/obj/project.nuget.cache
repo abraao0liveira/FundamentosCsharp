@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ffkRRazhBP4o6V2mPT0gaPatqBN0nDsAMXZsejHtTrobgniEbtMtcpZuUjbTsZwybp9M0XUyMnPyf3KSjrkiw==",
+  "dgSpecHash": "phkK6x4aqUuRozzt2HHf3tPbUtXpr/dUgpgh+B0DXYpqj+swfRPGJr+LNGSmEf72VCZKAByoUaBt7O4untQryA==",
   "success": true,
-  "projectFilePath": "/home/abraao0liveira/RiderProjects/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
+  "projectFilePath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/TestificadorDeString/TestificadorDeString/TestificadorDeString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

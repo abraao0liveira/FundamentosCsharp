@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abraao0liveira/RiderProjects/Fibonacci/Fibonacci/Fibonacci.csproj": {}
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Fibonacci/Fibonacci/Fibonacci.csproj": {}
   },
   "projects": {
-    "/home/abraao0liveira/RiderProjects/Fibonacci/Fibonacci/Fibonacci.csproj": {
+    "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Fibonacci/Fibonacci/Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abraao0liveira/RiderProjects/Fibonacci/Fibonacci/Fibonacci.csproj",
+        "projectUniqueName": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Fibonacci/Fibonacci/Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "/home/abraao0liveira/RiderProjects/Fibonacci/Fibonacci/Fibonacci.csproj",
+        "projectPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Fibonacci/Fibonacci/Fibonacci.csproj",
         "packagesPath": "/home/abraao0liveira/.nuget/packages/",
-        "outputPath": "/home/abraao0liveira/RiderProjects/Fibonacci/Fibonacci/obj/",
+        "outputPath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Fibonacci/Fibonacci/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abraao0liveira/.nuget/NuGet/NuGet.Config"

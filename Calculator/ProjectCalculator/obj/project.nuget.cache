@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJFM2WwbARHh3mt9Fa9mQRMZsndyfKZGH+2i5/lXsc3MUvKuDMHFCmEzQ9f6dIGjwDT8ocmyS+IHRJrrT7x30Q==",
+  "dgSpecHash": "yenUbQlgoEBuGEZkBPI13Y2C7czPxObPhEvwwu8/nhSdN/j5pcm4vg8qfxANTFUDYHeaFBUSRKP6O9YyebA5og==",
   "success": true,
-  "projectFilePath": "/home/abraao0liveira/RiderProjects/Calculator/ProjectCalculator/ProjectCalculator.csproj",
+  "projectFilePath": "/home/abraao0liveira/RiderProjects/FundamentosCsharp/Calculator/ProjectCalculator/ProjectCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
