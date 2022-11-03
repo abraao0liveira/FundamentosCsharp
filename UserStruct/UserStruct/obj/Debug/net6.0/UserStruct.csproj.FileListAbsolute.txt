@@ -1,0 +1,15 @@
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/bin/Debug/net6.0/UserStruct
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/bin/Debug/net6.0/UserStruct.deps.json
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/bin/Debug/net6.0/UserStruct.runtimeconfig.json
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/bin/Debug/net6.0/UserStruct.dll
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/bin/Debug/net6.0/UserStruct.pdb
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.csproj.AssemblyReference.cache
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.AssemblyInfoInputs.cache
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.AssemblyInfo.cs
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.csproj.CoreCompileInputs.cache
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.dll
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/refint/UserStruct.dll
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.pdb
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/UserStruct.genruntimeconfig.cache
+/home/abraao0liveira/RiderProjects/UserStruct/UserStruct/obj/Debug/net6.0/ref/UserStruct.dll
